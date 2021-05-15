@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Werkstuk</string>
+    <string name="title_home">Metronome</string>
+    <string name="title_dashboard">To Do</string>
+    <string name="title_notifications">Skill Tree</string>
+    <string name="level_text">Your skill level is:</string>
+</resources>

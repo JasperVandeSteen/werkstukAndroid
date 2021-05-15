@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Werkstuk</string>
+    <string name="title_home">Metronoom</string>
+    <string name="title_dashboard">Lijst</string>
+    <string name="title_notifications">Vaardigheid</string>
+    <string name="level_text">Jouw vaardigheid score is:</string>
+</resources>
